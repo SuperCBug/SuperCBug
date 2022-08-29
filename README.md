@@ -1,4 +1,4 @@
-Hey! I'm SuperCBug. Doing gamedev things in GMS 2. 
+Hey!
 
 <!---
 SuperCBug/SuperCBug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
